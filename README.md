@@ -1,0 +1,6 @@
+###CNN_Facial_Recgonition_Project
+
+In recent years, Machine Learning and, specifically, Convolutional Neural Networks (CNN) have become instrumental in image processing tasks due to their efficiency and accuracy. This study delves into the application of CNNs for real-time facial recognition and labelling in videos. Utilizing a deep learning architecture, we applied Transfer Learning to a pretrained model, enhancing its performance for small scale, light-weight applications. We conducted a pilot project to ascertain the model's efficacy, achieving an accuracy of over 85% against a testing dataset and successfully labelling faces with over 90% accuracy in a controlled video environment. While promising, a noted 
+limitation is the processing time, which extends the original video duration by 17 times, underscoring an area for future optimization. Facial recognition has always been an area with a lot 
+of applicability, whether be it in school to detect student’s behaviours, or at work, analyzing employee’s performances. This report aims to evaluate the performance of a pilot scale facial 
+recognition model with VGG16 Convolutional Neural Network (CNN) for a light-weight usage in real time videos.
